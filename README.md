@@ -1,3 +1,3 @@
 # 1stWebPage
 ## Hello
-### _This is my firt WebSite._
+### _This is my first WebSite._

@@ -1,11 +1,12 @@
-## Hello There
-### _This is my first WebSite._
-I'm learning coding and it is going well so far.
-1.  Open the file containing the LOL mascot.
-2.  Marvel at its beauty.
+TOPLANE KINGDOM
+![Weppage Favicon](https://gamepedia.cursecdn.com/lolesports_gamepedia_en/4/46/RivenSquare.png?version=283e9a80fdf9743804abc4e16e43975c)
 
-    ![Tux, the Linux mascot](https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png)
-	
-3. 	:heavy_check_mark: :heavy_check_mark: text hi
+by LEGENDÄR
+All rights reserved.
 
 
+Web page designed for helping League Of Legends players to improve at the game.
+Access to Tierlists, champions guides and information.
+Access to Coaching to help those who want to climb the ladder.
+
+![LegendärLogo](img/legendarlogo.png)

@@ -222,7 +222,7 @@ footer {
 }
 
 footer .author {
-	width: 50%;
+	width: 70%;
 	padding: 1%;
 }
 
@@ -239,14 +239,18 @@ footer .author p {
 }
 
 footer .socialmedia {
-	width: 50%;
+	width: 30%;
 	padding-right: 7%;
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	justify-content: center;
 }
 
 footer .socialmedia a {
-	display: inline-block;
-	padding: 2% 7%;
-	float: right;
+	font-size: 50px;
+	color: #fff;
+	padding: 5px 20px;
 }
 
 /*MEDIAQUERIES*/
@@ -334,12 +338,7 @@ footer .socialmedia a {
 		font-size: 0.8em;
 	}
 
-	footer {
-		justify-content: space-between;
-	}
-
 	footer .author {
-		width: 100%;
 		text-align: center;
 	}
 
@@ -353,22 +352,9 @@ footer .socialmedia a {
 		padding-top: 10px;
 		padding-right: 10px;
 	}
-	
-	footer .socialmedia {
-		display: flex;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		padding: 0px;
-	}
-	
-	footer .socialmedia a {
-		display: block;
-		width: 40px;
-		margin: 15px 10px;
-	}
 
-	footer .socialmedia a img {
-		width: 150%;
-		vertical-align: top;
+	footer .socialmedia a {
+		font-size: 20px;
+		padding: 5px;
 	}
 }

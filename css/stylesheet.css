@@ -353,6 +353,10 @@ footer .socialmedia a {
 		padding-right: 10px;
 	}
 
+	footer .socialmedia {
+		flex-wrap: wrap;
+	}
+	
 	footer .socialmedia a {
 		font-size: 20px;
 		padding: 5px;
